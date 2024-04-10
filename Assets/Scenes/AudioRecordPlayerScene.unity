@@ -1253,7 +1253,7 @@ GameObject:
   - component: {fileID: 2554318913644110042}
   - component: {fileID: 4017008100031055501}
   m_Layer: 0
-  m_Name: ClipPlayerPrefab
+  m_Name: AudioRecorderPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
