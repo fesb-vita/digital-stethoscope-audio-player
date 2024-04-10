@@ -4,7 +4,6 @@ Ovaj Unity projekt omogućuje reproducijranje i snimanje zvukova.<br>
 Unutar ovog projekta se nalaze dvije scene unutar <strong>Assets/Scenes</strong>:<br>
 1. <strong>ClipPlayerScene</strong> (reprodukcija zvukova)<br>
 2. <strong>AudioRecordPlayerScene</strong> (snimanje zvukova)<br>
-<br>
 <h2>Obe scene</h2>
 <picture><img alt="Oba prefaba" src="https://media.githubusercontent.com/media/fesb-vita/digital-stethoscope-audio-player/main/ScreenshotsForGit/ClipPlayerScreenShot.JPG"></picture><br>
 Obe scene imaju iste GameObject-e s jedinom razlikom u glavnom objektu (u <strong>ClipPlayerScene</strong> ClipPlayerPrefab ima <em>AudioPlayerScript</em>, u <strong>AudioRecordPlayerScene</strong> AudioRecorderPrefab ima <em>AudioPlayerStreamScript</em>).<br>
@@ -51,7 +50,7 @@ Link koji se ubaci u polje ArgUrl i važeći link koji pušta nekavi zvuk će re
 <picture><img alt="ClipPlayerPlayingClip" src="https://media.githubusercontent.com/media/fesb-vita/digital-stethoscope-audio-player/main/ScreenshotsForGit/ClipPlayerPlayingClip.JPG"></picture><br>
 <h2>AudioRecordPlayerClipScene</h2>
 <picture><img alt="AudioRecordPlayerScene" src="https://media.githubusercontent.com/media/fesb-vita/digital-stethoscope-audio-player/main/ScreenshotsForGit/AudioRecordPlayerScene.JPG"></picture><br>
-Unutar ove scene je implementirana snimanje zvukova preko mikrofona/stetoskopa koji se spojen na računalo koji može snimat zvuk.<br>
+Unutar ove scene je implementirano snimanje zvukova preko mikrofona/stetoskopa koji se spojen na računalo koji može snimat zvuk.<br>
 <picture><img alt="AudioRedorderPrefabComponents" src="https://media.githubusercontent.com/media/fesb-vita/digital-stethoscope-audio-player/main/ScreenshotsForGit/AudioRecorderPrefab.JPG"></picture><br>
 <picture><img alt="AudioRecorderRecordingVoice" src="https://media.githubusercontent.com/media/fesb-vita/digital-stethoscope-audio-player/main/ScreenshotsForGit/AudioRecorderRecordingVoice.JPG"></picture><br>
 <br>
