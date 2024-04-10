@@ -35,7 +35,7 @@ Button ZoomIn poziva funkciju <em>ZoomIn</em>.
 Button ZoomOut poziva funkciju <em>ZoomOut</em>.
   </li>
   <li>
-Slider Timeline kad se pomakne/prijeni poziva funkciju <em>SetTime</em>.
+Slider Timeline kad se pomakne/promijeni poziva funkciju <em>SetTime</em>.
   </li>
   <li>
 <em>Waveform</em> i <em>WaveformMask</em> objekti su zaduženi za prikazivanje koji dio zvuka koji se reprodura i za bojanje za klasificirane dijelove zvuka.<br>
